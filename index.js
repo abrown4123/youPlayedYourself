@@ -1,5 +1,5 @@
 
-let URL = 'http://rocky-ravine-34479.herokuapp.com/anotherone';
+let URL = 'https://rocky-ravine-34479.herokuapp.com/anotherone';
 
 function getData(theUrl) {
   let xmlHttp = new XMLHttpRequest();
