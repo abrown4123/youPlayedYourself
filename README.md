@@ -4,7 +4,7 @@
 
  ### How it Works
 
- Just go [here](http://anthonycodes.com/YouPlayedYourself) and on every pageload a new DJ Khaled gif will appear. Powered using the giphy API.
+ Just go [here](http://anthonycodes.com/youPlayedYourself) and on every pageload a new DJ Khaled gif will appear. Powered using the giphy API.
 
  #### Things to keep in mind
 
