@@ -1,6 +1,6 @@
 # YouPlayedYourself
 
- This is just a fun idea that I had that after watching [DJ Khaled's interview on Hot Ones](https://www.youtube.com/watch?v=tcEpHnaZMgg&t=1s). I also highly recommend looking at [khaledipsum.com](http://khaledipsum.com/) because it's hilarious.
+ This is just a fun idea that I had after watching [DJ Khaled's interview on Hot Ones](https://www.youtube.com/watch?v=tcEpHnaZMgg&t=1s). I also highly recommend looking at [khaledipsum.com](http://khaledipsum.com/) because it's hilarious.
 
  ### How it Works
 
